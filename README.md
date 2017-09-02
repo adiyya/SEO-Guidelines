@@ -27,13 +27,13 @@
   ### Robots.txt ###
       often placed at root of domain, be careful as its powerful; reference sitemap.xml (or your sitemap-index file) in this document
  ## Site Structure ##
-    Links
+  ### Links ###
       cross link liberally inside your site between relevant, related content; link to external sites as well
-    URL structure and keyword usage
+  ### URL structure and keyword usage ###
       keep it clean and keyword rich when possible
-    Clean URLs
+  ### Clean URLs ###
       no extraneous parameters (sessions, tracking, etc.)
-    HTML & XML sitemaps
+  ### HTML & XML sitemaps ###
       enable both so users and crawlers can both find what they need – one does not replace the other
   ## General ##
   
