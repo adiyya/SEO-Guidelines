@@ -16,15 +16,15 @@
 ## Crawlability ##
   ### XML Sitemaps ###
       make sure you have these set up and that you keep them fresh and current
-    Navigational structure
+  ### Navigational structure ###
       keep it clean, simple and easy to crawl
-    Rich media cautions
+  ### Rich media cautions ###
       don’t bury links to content inside JavaScript
-    Graceful degradation
+  ### Graceful degradation ###
       enable a clean down-level experience so crawlers can see your content
-    URL structure
+  ### URL structure ###
       avoid using session IDs, &, # and other characters when possible
-   Robots.txt
+  ### Robots.txt ###
       often placed at root of domain, be careful as its powerful; reference sitemap.xml (or your sitemap-index file) in this document
  ## Site Structure ##
     Links
