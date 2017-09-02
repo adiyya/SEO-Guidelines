@@ -35,11 +35,11 @@
       no extraneous parameters (sessions, tracking, etc.)
   ### HTML & XML sitemaps ###
       enable both so users and crawlers can both find what they need – one does not replace the other
-  ## General ##
-    ### Head ###
-      Titles – unique, relevant, 65 characters or so long.
-      Descriptions – unique, relevant, grammatically correct, roughly 160 or fewer characters.
-    ### Body ###
+ ## General ##
+  ### Head ###
+      1. Titles – unique, relevant, 65 characters or so long.
+      2. Descriptions – unique, relevant, grammatically correct, roughly 160 or fewer characters.
+  ### Body ###
       1. H1, H2 and other H* tag usage to show content structure on page.
       2. Only one <H1> tag per page
       3. ALT tag usage – helps crawlers understand what is in an image.
