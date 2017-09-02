@@ -14,26 +14,26 @@
 ## Social sharing ##
   enabling social sharing encourages visitors to share your content with their networks
 ## Crawlability ##
-    ### XML Sitemaps ###
+      XML Sitemaps
       make sure you have these set up and that you keep them fresh and current
-    ### Navigational structure ###
+    Navigational structure
       keep it clean, simple and easy to crawl
-    ### Rich media cautions ###
+    Rich media cautions
       don’t bury links to content inside JavaScript
-    ### Graceful degradation ###
+    Graceful degradation
       enable a clean down-level experience so crawlers can see your content
-    ### URL structure ###
+    URL structure
       avoid using session IDs, &, # and other characters when possible
-    ### Robots.txt ###
+   Robots.txt
       often placed at root of domain, be careful as its powerful; reference sitemap.xml (or your sitemap-index file) in this document
  ## Site Structure ##
-    ### Links ###
+    Links
       cross link liberally inside your site between relevant, related content; link to external sites as well
-    ### URL structure and keyword usage ###
+    URL structure and keyword usage
       keep it clean and keyword rich when possible
-    ### Clean URLs ###
+    Clean URLs
       no extraneous parameters (sessions, tracking, etc.)
-    ### HTML & XML sitemaps ###
+    HTML & XML sitemaps
       enable both so users and crawlers can both find what they need – one does not replace the other
   ## General ##
   
