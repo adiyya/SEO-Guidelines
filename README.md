@@ -14,7 +14,7 @@
 ## Social sharing ##
   enabling social sharing encourages visitors to share your content with their networks
 ## Crawlability ##
-      XML Sitemaps
+  ### XML Sitemaps ###
       make sure you have these set up and that you keep them fresh and current
     Navigational structure
       keep it clean, simple and easy to crawl
