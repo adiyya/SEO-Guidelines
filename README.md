@@ -36,4 +36,17 @@
   ### HTML & XML sitemaps ###
       enable both so users and crawlers can both find what they need – one does not replace the other
   ## General ##
+    ### Head ###
+      Titles – unique, relevant, 65 characters or so long.
+      Descriptions – unique, relevant, grammatically correct, roughly 160 or fewer characters.
+    ### Body ###
+      1. H1, H2 and other H* tag usage to show content structure on page.
+      2. Only one <H1> tag per page
+      3. ALT tag usage – helps crawlers understand what is in an image.
+      4. Keyword usage within the content/text – use the keyword/phrase you are targeting a few times; use variations as well
+      5. Build based on keyword research – shows you what users are actually looking for
+      6. Keep out of rich media and images – don’t use images to house your content either
+      7. Produce new content frequently – crawlers respond to you posting fresh content by visiting more frequently
+      8. Make it unique – don’t reuse content from other sources – critical – content must be unique in its final form on your page
+      9. 
   
